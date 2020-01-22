@@ -1,0 +1,23 @@
+Rui Manuel
+234987156
+4
+Rua Sem Fim / 200 / 5Esq /1200-001 / Lisboa
+10 ; 36 ; 2
+::::::::::
+Belmiro Miguel
+111987666
+2
+Avenida dos Grilos / 100 / - /2300-101 / Coimbra
+100 ; 136 ; 20 ; 3
+::::::::::
+Diana Goncalves Campinho
+123456789
+2
+Rua das Flores /  / - /4760-426 / Famalicao
+1 ; 3
+::::::::::
+Joao Seixas
+254756264
+4
+Rua Aldeia Nova / 1912 / - /4770-481 / -
+1 ; 10
